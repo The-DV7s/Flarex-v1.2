@@ -14,6 +14,8 @@ Must have atleast 1gb free storage!
 ]
 ```
 Official Website/socials : 
-[ https://flare.x ](https://xyzkyle.github.io/flarex.officialwebsite/)
-#   
-[ https://flare.x/xy0x-mainUpdateSHowcaserdudefr](https://youtube.com/ZvryxMC)
+[ https://flare.x ](<https://xyzkyle.github.io/flarex.officialwebsite/>)
+#   Our  SHowcaser
+[ https://flare.x/xy0x-mainUpdateSHowcaserdudefr](<https://youtube.com/@ZvryxMC>)
+# our Discord ( IN DEV )
+[ https://flare.x/discord-redirector/ ](<https://xyzkyle.github.io/official.discordsend/>)
