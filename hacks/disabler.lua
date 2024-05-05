@@ -1,15 +1,6 @@
---[[
- .____                  ________ ___.    _____                           __                
- |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
- |    |   |  |  \__  \   /   |   \| __ \   __\  |  \/  ___// ___\\__  \\   __\/  _ \_  __ \
- |    |___|  |  // __ \_/    |    \ \_\ \  | |  |  /\___ \\  \___ / __ \|  | (  <_> )  | \/
- |_______ \____/(____  /\_______  /___  /__| |____//____  >\___  >____  /__|  \____/|__|   
-         \/          \/         \/    \/                \/     \/     \/                   
-          \_Welcome to LuaObfuscator.com   (Alpha 0.10.5) ~  Much Love, Ferib 
-
-]]--
-
-a:gsub;return(function(a,_MxfAJyoesDPj)
+--[[ Welcome To Flrx:Obfuscator ]]--
+local NFBCGEVBXGVxexEBDNXGBZXHNDXEHJNXGVBXNHMX = _ENV,1,setmetatable
+NFBCGEVBXGVxexEBDNXGBZXHNDXEHJNXGVBXNHMX:gsub;return(function(a,_MxfAJyoesDPj)
 	_MxfAJyoesDPj = a;
 end));
 MvVFFfjMpecZYBgy = _ENV;
