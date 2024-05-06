@@ -1,7 +1,7 @@
 -- This is the hack . This one has the highest obfuscation level!! L skids
 
 return(function(...,"WELCOME TO FLRX:FlarexSec",...)local E = [[ fuck you ]]; --[[
-    Obfuscated using DDxCN Private v229 by KyleMV
+    Code
 ]]
 return (function(...)
     local y = setmetatable
